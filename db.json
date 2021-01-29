@@ -1,9 +1,9 @@
 {
-  "state": {
+  "state": [
     "collector1": {
       "running": true,
       "pid": 1333,
       "cleanexit": false
     }
-  }
+  ]
 }
